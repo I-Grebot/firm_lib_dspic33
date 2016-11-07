@@ -1,0 +1,22 @@
+ IGREBOT 2012
+ CDS55XX Digital Servo library
+ =============================
+
+  Author: Paul M.
+  Date  : 2012-01-24
+  Doc   : http://wiki.bidouill.fr/index.php?title=CDS55XX
+
+ History
+ =======
+
+  Revision    Date          Comment
+  ------------------------------------------------------------
+  r1.1        2012-02-06    Added timeout support
+  r1.0        2012-01-24    First release; mostly functionnal.
+
+ To-Do list
+ ==========
+
+ 1- Finish unitary tests on all basic read/writes
+ 2- Validate advanced data handling (reg_writes, sync_writes)
+ 3- Handle communication errors
